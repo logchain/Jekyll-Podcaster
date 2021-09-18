@@ -42,7 +42,7 @@ social:
 lang: it
 
 #Podcast Metadata. Used by the RSS Feed, which currently isn't in use. So you can avoid this
-podcast_title: Jekyll Podcaster
+podcast_title: LogChain Podcaster
 podcast_author: Alessio Franceschi
 podcast_email: alessiofranceschi2@gmail.com
 podcast_subtitle: "A Jekyll Theme designed for Podcasters"
