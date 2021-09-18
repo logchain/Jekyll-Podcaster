@@ -2,18 +2,12 @@ analytics-id:
 #Pages
 pages:
   - {name: 'Episodes', link: 'episodes.html'}
-  - {name: 'Patreon', link: '#'}
-  - {name: 'Shop', link: '#'}
-  - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
-  - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
+  - {name: 'Blog', link: 'https://logchainblog.netlify.app'}
+
 
 social:
-  - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
-  - {icon: 'facebook', type: "brand", link: '#'}
-  - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "#"}
+  - {icon: 'instagram', type: "brand", link: 'https://instagram.com/kayahuseyin7'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:kaya87826@gmail.com'}
 
 websites-podcast:
   - {name: 'Apple Podcast', link: '#'}
